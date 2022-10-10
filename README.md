@@ -13,9 +13,6 @@ Make sure that your copy contains following folders:
 ### Data
 Add the VOCdevkit(VOC2007 VOC2012) under data folder with processed ```.xml``` files, please contact us. Or you can run the ```process.py```  with original PASCAL VOC dataset to derive ```NEWAnnotaions```.
 
-### Download Model
-- our model[(RFSSD)](https://jbox.sjtu.edu.cn/l/I510eA)
-- [SSD](https://jbox.sjtu.edu.cn/l/71Ke24)
 
 Put the two models under the ```weights``` folder.
 ### Run
